@@ -8,8 +8,8 @@
 - ToB Explorer
 - blog: https://debugtalk.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugtalk&hide=html)
-![debugtalk's github stats](https://github-readme-stats.vercel.app/api?username=debugtalk&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=debugtalk&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![debugtalk's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=debugtalk&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&line_height=29)
 
 
 [HttpRunner]: https://github.com/httprunner/httprunner
