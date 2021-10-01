@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm debugtalk ✨🚀✨
 
-<!--
-**debugtalk/debugtalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/followers/debugtalk?label=Follow&style=social)](https://github.com/debugtalk)
 
-Here are some ideas to get you started:
+- Golang & Python developer
+- Author of [HttpRunner] and [HttpBoomer]
+- SDET @ ByteDance
+- ToB Explorer
+- blog: https://debugtalk.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugtalk&hide=html)
+![debugtalk's github stats](https://github-readme-stats.vercel.app/api?username=debugtalk&show_icons=true&count_private=true&line_height=40)
+
+
+[HttpRunner]: https://github.com/httprunner/httprunner
+[HttpBoomer]: https://github.com/httprunner/HttpBoomer
