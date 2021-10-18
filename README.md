@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/debugtalk?label=Follow&style=social)](https://github.com/debugtalk)
 
 - Golang & Python developer
-- Author of [HttpRunner] and [HttpBoomer]
+- Author of [HttpRunner] and [HttpRunner+]
 - SDET @ ByteDance
 - ToB Explorer
 - blog: https://debugtalk.com
@@ -13,4 +13,4 @@
 
 
 [HttpRunner]: https://github.com/httprunner/httprunner
-[HttpBoomer]: https://github.com/httprunner/HttpBoomer
+[HttpRunner+]: https://github.com/httprunner/hrp
