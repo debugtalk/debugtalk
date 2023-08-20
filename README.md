@@ -2,10 +2,9 @@
 
 [![Github](https://img.shields.io/github/followers/debugtalk?label=Follow&style=social)](https://github.com/debugtalk)
 
-- Golang & Python developer
-- Author of [HttpRunner]
+- Creator of [HttpRunner]
+- Golang & Python developer, enjoy coding and creating
 - SDET @ ByteDance
-- ToB Explorer
 - blog: https://debugtalk.com
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=debugtalk&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
